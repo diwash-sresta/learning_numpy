@@ -1,0 +1,28 @@
+Employee_ID,Name,Age,Salary,Experience_in_yrs,City,Department,Performance_Rating
+101,John Smith,32.0,75000.0,5.0,New York,IT,4.2
+102,Sarah Johnson,28.0,68000.0,3.0,Chicago,Marketing,3.8
+103,Michael Brown,45.0,92000.0,12.0,Los Angeles,Finance,4.5
+104,Emily Davis,35.22222222222222,81000.0,7.0,Houston,HR,3.5
+105,Robert Wilson,39.0,80160.0,9.0,Phoenix,Operations,4.0
+106,Jessica Miller,27.0,72000.0,8.392857142857142,Philadelphia,Sales,3.9
+107,David Taylor,52.0,80160.0,18.0,San Antonio,R&D,4.8
+108,Jennifer Moore,31.0,69000.0,4.0,New York,IT,4.107142857142858
+109,Daniel Anderson,35.24691358024692,88000.0,11.0,Los Angeles,Finance,4.3
+110,Lisa Thomas,36.0,76000.0,8.0,Houston,HR,3.7
+111,Paul Jackson,41.0,80160.0,13.0,Chicago,Marketing,4.1
+112,Amanda White,29.0,71000.0,2.0,New York,IT,3.6
+113,Kevin Martin,47.0,95000.0,15.0,Los Angeles,Finance,4.7
+114,Nicole Garcia,35.22222222222222,83000.0,6.0,Phoenix,Operations,4.107142857142858
+115,Steven Martinez,33.0,80160.0,5.0,Philadelphia,Sales,3.8
+116,Michelle Lee,26.0,67000.0,1.0,San Antonio,R&D,3.4
+117,Jason Harris,38.0,79000.0,9.0,New York,IT,4.0
+118,Kimberly Clark,44.0,91000.0,8.392857142857142,Houston,HR,4.6
+119,Brian Rodriguez,30.0,73000.0,4.0,Chicago,Marketing,3.9
+120,Stephanie Lewis,35.0,80160.0,7.0,Los Angeles,Finance,4.2
+121,Jeffrey Walker,50.0,99000.0,20.0,Phoenix,Operations,4.9
+122,Laura Hall,28.0,70000.0,3.0,Philadelphia,Sales,3.7
+123,Ryan Young,42.0,87000.0,14.0,San Antonio,R&D,4.4
+124,Megan Allen,35.22222222222222,85000.0,8.0,New York,IT,3.8
+125,Gary King,37.0,80000.0,10.0,Houston,HR,4.1
+126,Samantha Scott,31.0,74000.0,5.0,Chicago,Marketing,3.9
+127,Timothy Green,46.0,94000.0,16.0,Los Angeles,Finance,4.7

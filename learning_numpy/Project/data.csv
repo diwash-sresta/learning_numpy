@@ -1,0 +1,31 @@
+Employee_ID,Name,Age,Salary,Experience_in_yrs,City,Department,Performance_Rating
+101,John Smith,32,75000,5,New York,IT,4.2
+102,Sarah Johnson,28,68000,3,Chicago,Marketing,3.8
+103,Michael Brown,45,92000,12,Los Angeles,Finance,4.5
+101,John Smith,32,75000,5,New York,IT,4.2
+104,Emily Davis,NaN,81000,7,Houston,HR,3.5
+105,Robert Wilson,39,NaN,9,Phoenix,Operations,4.0
+106,Jessica Miller,27,72000,NaN,Philadelphia,Sales,3.9
+107,David Taylor,52,inf,18,San Antonio,R&D,4.8
+108,Jennifer Moore,31,69000,4,New York,IT,NaN
+102,Sarah Johnson,28,68000,3,Chicago,Marketing,3.8
+109,Daniel Anderson,-1,88000,11,Los Angeles,Finance,4.3
+110,Lisa Thomas,36,76000,8,Houston,HR,3.7
+111,Paul Jackson,41,NaN,13,Chicago,Marketing,4.1
+112,Amanda White,29,71000,2,New York,IT,3.6
+113,Kevin Martin,47,95000,15,Los Angeles,Finance,4.7
+114,Nicole Garcia,NaN,83000,6,Phoenix,Operations,NaN
+115,Steven Martinez,33,inf,5,Philadelphia,Sales,3.8
+103,Michael Brown,45,92000,12,Los Angeles,Finance,4.5
+116,Michelle Lee,26,67000,1,San Antonio,R&D,3.4
+117,Jason Harris,38,79000,9,New York,IT,4.0
+118,Kimberly Clark,44,91000,NaN,Houston,HR,4.6
+119,Brian Rodriguez,30,73000,4,Chicago,Marketing,3.9
+120,Stephanie Lewis,35,NaN,7,Los Angeles,Finance,4.2
+121,Jeffrey Walker,50,99000,20,Phoenix,Operations,4.9
+122,Laura Hall,28,70000,3,Philadelphia,Sales,3.7
+123,Ryan Young,42,87000,14,San Antonio,R&D,4.4
+124,Megan Allen,NaN,85000,8,New York,IT,3.8
+125,Gary King,37,80000,10,Houston,HR,4.1
+126,Samantha Scott,31,74000,5,Chicago,Marketing,3.9
+127,Timothy Green,46,94000,16,Los Angeles,Finance,4.7
